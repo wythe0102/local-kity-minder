@@ -8,3 +8,5 @@
 
 部署步骤:
 下载项目，放入tomcat或者任意自己熟悉的容器重，启动即可
+
+![image](https://github.com/wythe0102/local-kity-minder/blob/master/doc/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
